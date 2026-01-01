@@ -74,5 +74,5 @@ Built with a "Toy-First" design philosophy:
 ---
 
 <div align="center">
-  <p><em>Created with ❤️ by Edwin Kim</em></p>
+  <p><em>Created by Edwin Kim</em></p>
 </div>
